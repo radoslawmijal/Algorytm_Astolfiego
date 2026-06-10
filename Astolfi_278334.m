@@ -27,5 +27,5 @@ yd0     = -3;
 thetad0 = 0;
 
 %     x  y  theta  phi1  phi2
-q0 = [0; 0;   0;    0;    0];
+q0 = [1; 1;   pi;    0;    0];
 
