@@ -22,10 +22,10 @@ k1      = 1;
 k2      = 10; 
 Kd      = 10;
 
-xd0     = 5;
-yd0     = -3;
-thetad0 = 0;
+xd     = 10;
+yd     = 10;
+thetad = pi;
 
 %     x  y  theta  phi1  phi2
-q0 = [1; 1;   pi;    0;    0];
+q0 = [0; 0;   0;    0;    0];
 
